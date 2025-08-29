@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Password Genrator",
+    "desc": "Fully fledged password Genrator that genrate strong passwords depending on selected constrains.",
+    "image": "pswdgenz",
+    "links": {
+      "view": "https://vgvvlsapswdgenz.netlify.app/",
+      "code": "https://vgvvlsapswdgenz.netlify.app/"
+    }
+  },
+  {
+    "name": "Currency Converter",
+    "desc": "All in one Currency Converter.",
+    "image": "cconv",
+    "links": {
+      "view": "https://vgvvlsacurrencyconvt.netlify.app/",
+      "code": "https://vgvvlsacurrencyconvt.netlify.app/"
+    }
+  }
+]
